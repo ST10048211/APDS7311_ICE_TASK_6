@@ -1,0 +1,25 @@
+.welcome-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f0f4f8;
+    color: #333;
+    text-align: center;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+    color: #4c8cfa;
+  }
+  
+  p {
+    font-size: 1.2rem;
+    color: #666;
+  }
+  
